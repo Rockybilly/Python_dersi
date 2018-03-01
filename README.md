@@ -1,2 +1,1 @@
-# Python_dersi
-Ders
+# Python Dersi Dosyaları
